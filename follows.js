@@ -13,7 +13,7 @@
 	*/
                 var defaultKey	= 'j5hWHpZTKMaFK8O1ZcQneB7tHQZqfDGqlg65lpoMiK7nLrp1', 
 		defaultFeeds	= [499701498], // Comma separated array of Xively Feed ID number
-		applicationName	= '', // Replaces Xively logo in the header
+		applicationName	= 'Cave Monitor', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
